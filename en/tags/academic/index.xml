@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic | My Site</title>
+    <link>https://yaroslav-shichenko.github.io/en/tags/academic/</link>
+      <atom:link href="https://yaroslav-shichenko.github.io/en/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Academic</title>
+      <link>https://yaroslav-shichenko.github.io/en/tags/academic/</link>
+    </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yaroslav-shichenko.github.io/en/post/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h2&gt;
+&lt;p&gt;На этой неделе произошло несколько интересных событий:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;В университете мы начали изучать основы алгоритмов. Это был захватывающий опыт, так как мы не только решали задачи, но и обсуждали оптимальные подходы к их решению.&lt;/li&gt;
+&lt;li&gt;Удалось написать свой первый небольшой проект на Python — простой калькулятор. Я изучил основы работы с функциями, что значительно повысило мое понимание языка.&lt;/li&gt;
+&lt;li&gt;Посетил хакатон, где узнал больше о командной работе и процессе разработки под давлением. Это был полезный опыт, который я планирую повторить.&lt;/li&gt;
+&lt;li&gt;В свободное время прочитал интересную статью о развитии технологий искусственного интеллекта — мотивация двигаться в этом направлении только выросла.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Неделя была насыщенной и продуктивной, жду новых вызовов!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Непрерывная интеграция и непрерывное развертывание</title>
+      <link>https://yaroslav-shichenko.github.io/en/publication/01/</link>
+      <pubDate>Sat, 08 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/en/publication/01/</guid>
+      <description>&lt;h2 id=&#34;непрерывная-интеграция-и-непрерывное-развертывание-cicd&#34;&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD)&lt;/h2&gt;
+&lt;h3 id=&#34;что-такое-cicd&#34;&gt;Что такое CI/CD?&lt;/h3&gt;
+&lt;p&gt;CI/CD (Continuous Integration/Continuous Deployment) — это методология, используемая в разработке программного обеспечения для автоматизации процессов интеграции, тестирования и развертывания. Она позволяет ускорить процесс доставки программного обеспечения, повышая его качество и снижая риски ошибок.&lt;/p&gt;
+&lt;h3 id=&#34;принципы-cicd&#34;&gt;Принципы CI/CD&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывная интеграция (CI)&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Основная цель — интеграция кода, написанного разными разработчиками, в общий репозиторий.&lt;/li&gt;
+&lt;li&gt;Каждый новый фрагмент кода проверяется автоматически, чтобы выявить ошибки на раннем этапе.&lt;/li&gt;
+&lt;li&gt;Тестирование становится неотъемлемой частью процесса, что помогает поддерживать стабильность проекта.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывная доставка (Continuous Delivery)&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Программное обеспечение всегда находится в готовом к развертыванию состоянии.&lt;/li&gt;
+&lt;li&gt;Каждый новый релиз проходит автоматическое тестирование, минимизируя ручные проверки.&lt;/li&gt;
+&lt;li&gt;Это позволяет гибко и быстро реагировать на изменения требований.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Непрерывное развертывание (Continuous Deployment)&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Автоматизация доставки программного обеспечения на рабочие сервера.&lt;/li&gt;
+&lt;li&gt;Исключает необходимость вмешательства человека в процесс развертывания.&lt;/li&gt;
+&lt;li&gt;Ускоряет процесс обновления ПО, обеспечивая минимальные задержки для пользователей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;преимущества-использования-cicd&#34;&gt;Преимущества использования CI/CD&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Повышение качества кода&lt;/strong&gt;: регулярное тестирование помогает быстрее находить и исправлять ошибки.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Скорость разработки&lt;/strong&gt;: автоматизация интеграции и развертывания сокращает время вывода продукта на рынок.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Снижение рисков&lt;/strong&gt;: мелкие изменения проще протестировать и внедрить без нарушения стабильности.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Улучшение командной работы&lt;/strong&gt;: разработчики могут сосредоточиться на написании кода, не отвлекаясь на рутинные задачи.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;итог&#34;&gt;Итог&lt;/h3&gt;
+&lt;p&gt;CI/CD — это не просто методология, а целая философия разработки, направленная на повышение качества и скорости доставки ПО. Ее внедрение требует времени и усилий, но результат оправдывает ожидания, делая процесс разработки более прозрачным и эффективным.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
