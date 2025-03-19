@@ -5,12 +5,24 @@
     <link>https://yaroslav-shichenko.github.io/tags/markdown/</link>
       <atom:link href="https://yaroslav-shichenko.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://yaroslav-shichenko.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yaroslav-shichenko.github.io/post/02/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/post/02/</guid>
+      <description>&lt;h1 id=&#34;итоги-недели&#34;&gt;Итоги недели&lt;/h1&gt;
+&lt;p&gt;Эта неделя выдалась насыщенной! Разбирали алгоритмы и структуры данных, было интересно, но местами непросто. Особенно понравилось изучение хеш-таблиц — не думал, что они так широко используются в программировании.&lt;/p&gt;
+&lt;p&gt;Также начали осваивать LaTeX для оформления отчетов. Сначала казалось сложным, но чем больше работаю с ним, тем больше вижу его удобство.&lt;/p&gt;
+&lt;p&gt;Как у вас дела с учебой? Нашли для себя что-то новое?&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

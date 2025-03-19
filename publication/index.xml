@@ -5,12 +5,46 @@
     <link>https://yaroslav-shichenko.github.io/publication/</link>
       <atom:link href="https://yaroslav-shichenko.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Публикации</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 08 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Публикации</title>
       <link>https://yaroslav-shichenko.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Языки разметки и LaTeX</title>
+      <link>https://yaroslav-shichenko.github.io/publication/02/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/publication/02/</guid>
+      <description>&lt;h1 id=&#34;языки-разметки-и-latex&#34;&gt;Языки разметки и LaTeX&lt;/h1&gt;
+&lt;h2 id=&#34;что-такое-языки-разметки&#34;&gt;Что такое языки разметки?&lt;/h2&gt;
+&lt;p&gt;Языки разметки предназначены для структурирования текста и его форматирования. Они используются в веб-разработке, документации и научных публикациях.&lt;/p&gt;
+&lt;p&gt;Некоторые популярные языки разметки:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HTML&lt;/strong&gt; — основной язык для создания веб-страниц.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Markdown&lt;/strong&gt; — простой и удобный язык для заметок и документации.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LaTeX&lt;/strong&gt; — мощный инструмент для научных и технических текстов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;особенности-latex&#34;&gt;Особенности LaTeX&lt;/h2&gt;
+&lt;p&gt;LaTeX — это система подготовки документов, разработанная для работы с математическими формулами, таблицами и графиками. Она активно используется в научных статьях, технической документации и учебных работах.&lt;/p&gt;
+&lt;h3 id=&#34;преимущества-latex&#34;&gt;Преимущества LaTeX&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Высокое качество типографики&lt;/strong&gt; — текст выглядит профессионально.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Гибкость в форматировании&lt;/strong&gt; — можно полностью контролировать внешний вид документа.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Автоматизация ссылок, библиографий и оглавлений&lt;/strong&gt; — значительно упрощает работу с большими текстами.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Отличная поддержка математических формул&lt;/strong&gt; — незаменим для студентов и исследователей в технических дисциплинах.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;где-используется-latex&#34;&gt;Где используется LaTeX?&lt;/h2&gt;
+&lt;p&gt;LaTeX востребован среди студентов, ученых и инженеров. Он помогает оформлять:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Курсовые и дипломные работы.&lt;/li&gt;
+&lt;li&gt;Научные статьи и отчеты.&lt;/li&gt;
+&lt;li&gt;Презентации и книги.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Несмотря на то, что освоение LaTeX требует времени, его преимущества делают его незаменимым инструментом для работы с научными и техническими текстами.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Непрерывная интеграция и непрерывное развертывание</title>

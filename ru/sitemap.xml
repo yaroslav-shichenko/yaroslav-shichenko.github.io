@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/tags/academic/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -45,7 +45,7 @@
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/post/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -59,7 +59,7 @@
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -73,7 +73,7 @@
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/tags/markdown/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -87,7 +87,7 @@
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/tags/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -99,6 +99,28 @@
                 hreflang="ru-ru"
                 href="https://yaroslav-shichenko.github.io/tags/"
                 />
+  </url><url>
+    <loc>https://yaroslav-shichenko.github.io/post/02/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://yaroslav-shichenko.github.io/publication/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://yaroslav-shichenko.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://yaroslav-shichenko.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://yaroslav-shichenko.github.io/publication/02/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/post/01/</loc>
     <lastmod>2025-03-08T00:00:00+00:00</lastmod>
@@ -126,20 +148,6 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://yaroslav-shichenko.github.io/publication/01/"
-                />
-  </url><url>
-    <loc>https://yaroslav-shichenko.github.io/publication/</loc>
-    <lastmod>2025-03-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://yaroslav-shichenko.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://yaroslav-shichenko.github.io/publication/"
                 />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/projects/</loc>
