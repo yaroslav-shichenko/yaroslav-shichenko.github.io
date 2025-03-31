@@ -5,12 +5,29 @@
     <link>https://yaroslav-shichenko.github.io/tags/markdown/</link>
       <atom:link href="https://yaroslav-shichenko.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://yaroslav-shichenko.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yaroslav-shichenko.github.io/post/03/</link>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-апдейт-по-неделе-живы-кодим-не-сдаёмся&#34;&gt;🔧 Апдейт по неделе: живы, кодим, не сдаёмся&lt;/h1&gt;
+&lt;p&gt;Неделя была бодрой: много кода, чуть-чуть боли, и немного побед 💪&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💾 На архитектуре ЭВМ пошли глубже в ассемблер — удивительно, как после пары часов в нем C++ начинает казаться волшебством.&lt;/li&gt;
+&lt;li&gt;🧮 Алгоритмы — продолжаем оттачивать жадные и динамику. Тесты валят, но валим в ответ.&lt;/li&gt;
+&lt;li&gt;🌐 Потихоньку собираем свои pet-проекты. Один — Telegram-бот, второй — веб-дашборд на Flask. Уже не просто учеба, а что-то реальное.&lt;/li&gt;
+&lt;li&gt;🎤 Преподы начали намекать, что пора бы и доклады готовить. Научные. С презентацией. Без Comic Sans.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Так что выходим на новый уровень. В следующем сезоне: конференции, доклады, и кофе по расписанию ☕&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
