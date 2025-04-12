@@ -173,16 +173,6 @@
     <loc>https://yaroslav-shichenko.github.io/en/project/pandas/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://yaroslav-shichenko.github.io/project/pandas/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://yaroslav-shichenko.github.io/en/project/pandas/"
-                />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/en/project/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
@@ -201,30 +191,10 @@
     <loc>https://yaroslav-shichenko.github.io/en/project/pytorch/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://yaroslav-shichenko.github.io/project/pytorch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://yaroslav-shichenko.github.io/en/project/pytorch/"
-                />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/en/project/scikit/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://yaroslav-shichenko.github.io/project/scikit/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://yaroslav-shichenko.github.io/en/project/scikit/"
-                />
   </url><url>
     <loc>https://yaroslav-shichenko.github.io/en/tags/wowchemy/</loc>
     <lastmod>2023-10-26T00:00:00+00:00</lastmod>

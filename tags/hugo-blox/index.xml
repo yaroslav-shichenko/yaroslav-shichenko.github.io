@@ -5,12 +5,29 @@
     <link>https://yaroslav-shichenko.github.io/tags/hugo-blox/</link>
       <atom:link href="https://yaroslav-shichenko.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 31 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://yaroslav-shichenko.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://yaroslav-shichenko.github.io/post/04/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/post/04/</guid>
+      <description>&lt;h2 id=&#34;-неделя-в-режиме-ctrl--s&#34;&gt;📒 Неделя в режиме &amp;ldquo;Ctrl + S&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;На этой неделе успел:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Добить задание по структурам данных — написал реализацию бинарного кучи и не сломал себе мозг (почти).&lt;/li&gt;
+&lt;li&gt;Попробовал себя в Pandas: анализировал датасет с данными о студентах. Нашёл кучу интересного и столько же мусора в данных. Чистка — отдельное искусство.&lt;/li&gt;
+&lt;li&gt;Провёл мини-эксперимент с визуализацией сортировок. Смотреть, как пузырьковая сортировка «ползёт», — больно, но поучительно.&lt;/li&gt;
+&lt;li&gt;В процессе — проект на Flask + SQLite. Пока всё на минималках, но API работает, и это уже победа.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;А ещё — понял, что чем глубже залезаешь в CS, тем чётче осознаёшь: важно не только писать код, но и понимать, &lt;strong&gt;почему именно так&lt;/strong&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>

@@ -5,7 +5,7 @@
     <link>https://yaroslav-shichenko.github.io/tags/hugo/</link>
       <atom:link href="https://yaroslav-shichenko.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 12 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yaroslav-shichenko.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo</title>
@@ -13,27 +13,28 @@
     </image>
     
     <item>
-      <title>Pandas</title>
-      <link>https://yaroslav-shichenko.github.io/project/pandas/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://yaroslav-shichenko.github.io/project/pandas/</guid>
-      <description>&lt;p&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>PyTorch</title>
-      <link>https://yaroslav-shichenko.github.io/project/pytorch/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://yaroslav-shichenko.github.io/project/pytorch/</guid>
-      <description>&lt;p&gt;PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>scikit-learn</title>
-      <link>https://yaroslav-shichenko.github.io/project/scikit/</link>
-      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://yaroslav-shichenko.github.io/project/scikit/</guid>
-      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://yaroslav-shichenko.github.io/project/hugo/</link>
+      <pubDate>Sat, 12 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://yaroslav-shichenko.github.io/project/hugo/</guid>
+      <description>&lt;p&gt;Создание персонального сайта стало неотъемлемой частью современного научного имиджа. Платформа &lt;strong&gt;Hugo Academic&lt;/strong&gt; предоставляет удобный и гибкий инструмент для разработки профессионального веб-ресурса исследователя. Это решение позволяет аккуратно структурировать информацию о публикациях, проектах, курсах, достижениях и академической активности.&lt;/p&gt;
+&lt;h2 id=&#34;почему-hugo-academic&#34;&gt;Почему Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Academic — это тема для генератора статических сайтов &lt;strong&gt;Hugo&lt;/strong&gt;, ориентированная на потребности научного сообщества. Она предлагает чистый, минималистичный дизайн, поддержку многоколоночной структуры, удобную навигацию и адаптивность для мобильных устройств. Кроме того, сайт легко адаптируется под персональные нужды — от блогов и портфолио до полноценного научного досье.&lt;/p&gt;
+&lt;h2 id=&#34;что-можно-разместить-на-сайте&#34;&gt;Что можно разместить на сайте?&lt;/h2&gt;
+&lt;p&gt;На платформе можно публиковать:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Список научных публикаций с метаданными и ссылками;&lt;/li&gt;
+&lt;li&gt;Информацию о текущих и завершённых проектах;&lt;/li&gt;
+&lt;li&gt;Резюме, включая опыт работы и образования;&lt;/li&gt;
+&lt;li&gt;Преподаваемые курсы и учебные материалы;&lt;/li&gt;
+&lt;li&gt;Блог с научными размышлениями или новостями;&lt;/li&gt;
+&lt;li&gt;Контактные данные и профили в соцсетях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;преимущества-для-исследователя&#34;&gt;Преимущества для исследователя&lt;/h2&gt;
+&lt;p&gt;Создание такого сайта повышает видимость научной деятельности, облегчает взаимодействие с коллегами и потенциальными партнёрами, а также способствует академическому продвижению. Автоматизация многих аспектов (например, загрузки публикаций из BibTeX-файлов) существенно упрощает поддержание актуальности информации.&lt;/p&gt;
+&lt;h2 id=&#34;заключение&#34;&gt;Заключение&lt;/h2&gt;
+&lt;p&gt;Hugo Academic — это не просто инструмент для создания сайта. Это способ систематизировать и представить свою научную биографию в удобной и современной форме. Он идеально подойдёт как для молодых учёных, желающих заявить о себе, так и для опытных исследователей, стремящихся укрепить своё профессиональное присутствие в сети.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
